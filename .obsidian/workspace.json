@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c7f81ce5ec759f91",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e6d4bb7cbf7ef94",
+        "type": "tabs",
+        "dimension": 76.93661971830986,
+        "children": [
+          {
+            "id": "90e795b297ae13dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chord progressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb113f564f0eab61",
+        "type": "tabs",
+        "dimension": 23.06338028169014,
+        "children": [
+          {
+            "id": "0ebca5bedc677094",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f345e25e6de4efe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a080ba3fcd2ca53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc8b33283e57f69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64f0c66de02aa6ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c9da0d2f4768944",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39964b8a5c44a903",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc76660ce8a21980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15ea8a316663542",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chord progressions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6b34ae6b6a9fe95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chord progressions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23ef8b2087a849e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c12b142a430749a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chord progressions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90e795b297ae13dc",
+  "lastOpenFiles": [
+    "Music Theory.md",
+    "Chord progressions.md",
+    "create a link.md"
+  ]
+}
