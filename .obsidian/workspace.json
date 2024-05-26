@@ -12,12 +12,8 @@
             "id": "90e795b297ae13dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chord progressions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,7 +21,7 @@
       {
         "id": "eb113f564f0eab61",
         "type": "tabs",
-        "dimension": 23.06338028169014,
+        "dimension": 23.063380281690137,
         "children": [
           {
             "id": "0ebca5bedc677094",
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chord progressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chord progressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chord progressions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,7 +157,11 @@
   "active": "90e795b297ae13dc",
   "lastOpenFiles": [
     "Music Theory.md",
-    "Chord progressions.md",
+    "Music Theory/Composition Notions.md",
+    "Music Theory/Chord Progressions.md",
+    "tension and release.md",
+    "README.md",
+    "Music Theory",
     "create a link.md"
   ]
 }
