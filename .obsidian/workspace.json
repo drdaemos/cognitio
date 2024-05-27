@@ -12,8 +12,12 @@
             "id": "90e795b297ae13dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Music Theory/Music Theory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music Theory/Music Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music Theory/Music Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Music Theory/Music Theory.md"
+              }
             }
           }
         ]
@@ -154,13 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90e795b297ae13dc",
+  "active": "3bc8b33283e57f69",
   "lastOpenFiles": [
-    "Music Theory.md",
-    "Music Theory/Composition Notions.md",
-    "Music Theory/Chord Progressions.md",
-    "tension and release.md",
+    "Music Theory/Musical Language",
+    "Music Theory/Composition Notions/Tension and release.md",
+    "Music Theory/Music Theory.md",
+    "Composition Notions.md",
     "README.md",
+    "Music Theory/Chord Progressions.md",
+    "Music Theory/Composition Notions.md",
+    "Music Theory/Composition Notions/Sound dynamics and Articulation.md",
+    "Music Theory/Composition Notions/Energy and Rhythms.md",
+    "Music Theory/Composition Notions/Familiar vs unexpected.md",
+    "Music Theory/Composition Notions/Call and response.md",
+    "Music Theory/Composition Notions/Foreground and background.md",
+    "Music Theory/Composition Notions",
+    "resources",
+    "tension and release.md",
     "Music Theory",
     "create a link.md"
   ]
