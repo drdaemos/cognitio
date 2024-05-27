@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "/resources",
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative"
 }
