@@ -1,0 +1,1 @@
+When we hear sounds and analyze them from a musical perspective, we associate them with a pitch—a psychoacoustical property of how high or low the sound is perceived. Pitch correlates with the frequency of a sound wave, and higher pitched sounds have higher wave frequencies (and vice versa).

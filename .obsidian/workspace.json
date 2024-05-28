@@ -6,7 +6,6 @@
       {
         "id": "6e6d4bb7cbf7ef94",
         "type": "tabs",
-        "dimension": 76.93661971830986,
         "children": [
           {
             "id": "90e795b297ae13dc",
@@ -14,25 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Theory/Music Theory.md",
+                "file": "Music Theory/Musical Language/Notes.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb113f564f0eab61",
-        "type": "tabs",
-        "dimension": 23.063380281690137,
-        "children": [
-          {
-            "id": "0ebca5bedc677094",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Theory/Music Theory.md",
+                "file": "Music Theory/Musical Language/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Theory/Music Theory.md",
+                "file": "Music Theory/Musical Language/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Theory/Music Theory.md"
+                "file": "Music Theory/Musical Language/Notes.md"
               }
             }
           }
@@ -164,23 +148,26 @@
   },
   "active": "90e795b297ae13dc",
   "lastOpenFiles": [
-    "README.md",
     "Music Theory/Music Theory.md",
+    "Music Theory/Musical Language/Notes.md",
+    "Music Theory/Physics of Music/Volume.md",
+    "Music Theory/Physics of Music/Timbre.md",
+    "Music Theory/Musical Language/Equal Temperament.md",
+    "Music Theory/Physics of Music/Pitch.md",
+    "Music Theory/Musical Language/Chords.md",
+    "README.md",
+    "Sound Synthesis/Sound Synthesis.md",
+    "Sound Synthesis",
+    "Music Theory/Composition Notions/Energy and Rhythms.md",
     "Music Theory/Harmony/Chord Progressions.md",
     "Music Theory/Composition Notions/Call and response.md",
-    "Music Theory/Composition Notions/Energy and Rhythms.md",
     "Music Theory/Composition Notions/Familiar vs unexpected.md",
     "Music Theory/Composition Notions/Foreground and background.md",
     "Music Theory/Composition Notions/Sound dynamics and Articulation.md",
     "Music Theory/Composition Notions/Tension and release.md",
-    "Music Theory/Musical Language/Chords.md",
     "Music Theory/Physics of Music/Duration.md",
-    "Music Theory/Physics of Music/Timbre.md",
-    "Music Theory/Physics of Music/Volume.md",
-    "Music Theory/Physics of Music/Pitch.md",
     "Music Theory/Physics of Music",
     "Music Theory/Musical Language/Scales.md",
-    "Music Theory/Musical Language/Notes (Pitch classes).md",
     "Music Theory/Musical Language/Intervals.md",
     "Music Theory/Physics of Music",
     "Music Theory/Harmony",

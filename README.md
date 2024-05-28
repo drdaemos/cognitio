@@ -7,3 +7,4 @@ I use [Obsidian app](https://obsidian.md/) to work on these notes and keep them 
 ## Topics Index
 
 - [Music Theory](Music%20Theory/Music%20Theory.md)
+- [Sound Synthesis](Sound%20Synthesis/Sound%20Synthesis.md)

@@ -32,20 +32,20 @@ Temporally creates a sense of movement through [Chord Progressions](Harmony/Chor
 
 Music is built from the following blocks:
 
-- [Notes (Pitch classes)](Musical%20Language/Notes%20(Pitch%20classes).md)
+- [Notes](Musical%20Language/Notes.md) (or Pitch classes)
 - [Scales](Musical%20Language/Scales.md)
 - [Intervals](Musical%20Language/Intervals.md)
 - [Chords](Musical%20Language/Chords.md)
 
 ## Physics of Music
 
-Physically speaking, all sounds that we hear are vibrations in the air, dividable into the basic elements: intensity and time. With some simplification, every sound wave can be decomposed into several smaller sine waves (by applying a Fourier Transform).
-
 Music is a combination of different sounds and we can manipulate the properties of the sound waves to achieve musical goals—create different layers, articulate some moments, establish dynamics.
 
 With physical instruments (like piano, guitar, drums etc.) we are limited by the mechanical design of an instrument. A guitar doesn't sound like a flute because of differences in how sound wave is produced. However, we still can produce different sounds by applying a different playing technique or smashing the strings harder or introducing pauses into our playing.
 
-Understanding the physics of music is much more relevant when we replace physical instruments with sound synthesis. A lot of sounds in a modern electronic music are created with synthesizers—wave generators that allow to modify various properties of basic wave forms: sine, triangle, square and mix them with each other.
+Understanding the physics of music is much more relevant when we replace physical instruments with [Sound Synthesis](../Sound%20Synthesis/Sound%20Synthesis.md). A lot of sounds in a modern electronic music are created with synthesizers—wave generators that allow to modify various properties of basic wave forms: sine, triangle, square and mix them with each other.
+
+>Physically speaking, all sounds that we hear are vibrations in the air, dividable into the basic elements: intensity and time. With some simplification, every sound wave can be decomposed into several smaller sine waves (by applying a Fourier Transform).
 
 A sound is generally characterized by the following properties:
 
@@ -54,6 +54,3 @@ A sound is generally characterized by the following properties:
 - [Timbre](Physics%20of%20Music/Timbre.md)
 - [Duration](Physics%20of%20Music/Duration.md)
 
-Related resources:
-
-- https://devincody.github.io/Blog/post/an_intuitive_interpretation_of_the_fourier_transform/?source=post_page-----f89ac113a2b4--------------------------------
