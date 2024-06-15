@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "file": "Guitar Applied Theory/Reading List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "file": "Guitar Applied Theory/Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "file": "Guitar Applied Theory/Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md"
+                "file": "Guitar Applied Theory/Reading List.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "90e795b297ae13dc",
   "lastOpenFiles": [
-    "Music Theory/Harmony/Chord Progressions.md",
     "Guitar Applied Theory/Fun Chord Progressions.md",
+    "Guitar Applied Theory/Reading List.md",
+    "Guitar Applied Theory/Untitled",
+    "Music Theory/Harmony/Chord Progressions.md",
     "Guitar Applied Theory/Fun Progressions",
     "Music Theory/Musical Language/Intervals.md",
     "Music Theory/Musical Language/Notes.md",
@@ -180,7 +182,6 @@
     "Music Theory/Composition Notions",
     "Music Theory.md",
     "Music Theory/Chord Progressions.md",
-    "README.md",
     "Music Theory"
   ]
 }
