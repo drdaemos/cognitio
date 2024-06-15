@@ -35,6 +35,7 @@ Note durations are relative to the musical [meter](Meter.md) and [[tempo]]. For 
 | eighth        | ⅛ bar    | 𝅘𝅥𝅮     |
 | sixteenth     | ¹⁄₁₆ bar | 𝅘𝅥𝅯     |
 | thirty-second | ¹⁄₃₂ bar | 𝅘𝅥𝅰     |
+
 Notes can be also extended by half of their original duration by adding a dot after them. For example, a dotted eighth note 𝅘𝅥𝅮. should sound for ¹⁄₁₂ bar. 
 
 Groups of notes can organized into various tuplets—irregular equal subdivisions within 1 beat. For example, *triplets* are groupings of three equal notes, each sounding for ⅓ duration of a triplet. In such grouping three eighth triplet notes will sound as long as one quarter note (instead of just two eighth notes).

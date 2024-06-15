@@ -11,12 +11,8 @@
             "id": "90e795b297ae13dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Theory/Musical Language/Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Theory/Musical Language/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Theory/Musical Language/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Music Theory/Musical Language/Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +140,13 @@
   },
   "active": "90e795b297ae13dc",
   "lastOpenFiles": [
-    "Music Theory/Musical Language/Scales.md",
-    "Music Theory/Musical Language/Notes.md",
     "Music Theory/Musical Language/Intervals.md",
     "Music Theory/Musical Language/Chords.md",
+    "Music Theory/Musical Language/Notes.md",
+    "Music Theory/Musical Language/Tempo.md",
+    "Music Theory/Musical Language/Scales.md",
     "Music Theory/Musical Language/Equal Temperament.md",
     "Music Theory/Music Theory.md",
-    "Music Theory/Musical Language/Tempo.md",
     "Music Theory/Physics of Music/Duration.md",
     "Music Theory/Physics of Music/Pitch.md",
     "Music Theory/Physics of Music/Timbre.md",

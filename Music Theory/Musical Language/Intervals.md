@@ -15,6 +15,7 @@ Music interval is a measure of pitch difference between two different notes. Mos
 | Minor **seventh**  | 7 steps           |           10            |                         |
 | Major **seventh**  | 7 steps           |           11            |                         |
 | Perfect **octave** | 8 steps           |           12            |                         |
+
 Each major can be extended (**augmented**) by one semitone, e.g. when major third is augmented—it has 5 semitones (just like a fourth). Each minor interval can also be shrinked (**diminished**) by a semitone. Perfect intervals can be either augmented or diminished.
 
 Augmented or diminished intervals are important because their range in scale steps stays the same, even if they sound like a different interval. This is useful in chord building, because [chords](Chords.md) are built by stacking thirds on top of each other—but not every chord strictly has only minor or major third. For example, a **diminished** chord is built with two minor thirds—creating a diminished fifth or a tritone between the root note and the fifth.
