@@ -11,8 +11,12 @@
             "id": "90e795b297ae13dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md"
+              }
             }
           }
         ]
@@ -140,18 +148,20 @@
   },
   "active": "90e795b297ae13dc",
   "lastOpenFiles": [
+    "Music Theory/Harmony/Chord Progressions.md",
+    "Guitar Applied Theory/Fun Chord Progressions.md",
+    "Guitar Applied Theory/Fun Progressions",
     "Music Theory/Musical Language/Intervals.md",
-    "Music Theory/Musical Language/Chords.md",
     "Music Theory/Musical Language/Notes.md",
-    "Music Theory/Musical Language/Tempo.md",
     "Music Theory/Musical Language/Scales.md",
+    "Music Theory/Musical Language/Tempo.md",
+    "Music Theory/Musical Language/Chords.md",
     "Music Theory/Musical Language/Equal Temperament.md",
     "Music Theory/Music Theory.md",
     "Music Theory/Physics of Music/Duration.md",
     "Music Theory/Physics of Music/Pitch.md",
     "Music Theory/Physics of Music/Timbre.md",
     "Music Theory/Physics of Music/Volume.md",
-    "Music Theory/Harmony/Chord Progressions.md",
     "Music Theory/Composition Notions/Tension and release.md",
     "Music Theory/Composition Notions/Sound dynamics and Articulation.md",
     "Music Theory/Composition Notions/Foreground and background.md",
@@ -171,7 +181,6 @@
     "Music Theory.md",
     "Music Theory/Chord Progressions.md",
     "README.md",
-    "tension.md",
     "Music Theory"
   ]
 }
