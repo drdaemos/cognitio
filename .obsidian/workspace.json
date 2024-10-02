@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar Applied Theory/Reading List.md",
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1e868a1d70ead9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "240d21a948809f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd792422295415b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guitar Applied Theory/Modal Mixture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72362d8dfebf4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music Production/Creating Percussion Parts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guitar Applied Theory/Reading List.md",
+                "file": "Music Production/Creating Percussion Parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guitar Applied Theory/Reading List.md",
+                "file": "Music Production/Creating Percussion Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guitar Applied Theory/Reading List.md"
+                "file": "Music Production/Creating Percussion Parts.md"
               }
             }
           }
@@ -146,42 +195,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90e795b297ae13dc",
+  "active": "f72362d8dfebf4e1",
   "lastOpenFiles": [
-    "Guitar Applied Theory/Fun Chord Progressions.md",
-    "Guitar Applied Theory/Reading List.md",
-    "Guitar Applied Theory/Untitled",
-    "Music Theory/Harmony/Chord Progressions.md",
-    "Guitar Applied Theory/Fun Progressions",
-    "Music Theory/Musical Language/Intervals.md",
-    "Music Theory/Musical Language/Notes.md",
-    "Music Theory/Musical Language/Scales.md",
-    "Music Theory/Musical Language/Tempo.md",
+    "Music Production/Logic Pro/Flam notes in Step Sequencer.md",
+    "Music Production/Creating Percussion Parts.md",
     "Music Theory/Musical Language/Chords.md",
-    "Music Theory/Musical Language/Equal Temperament.md",
-    "Music Theory/Music Theory.md",
+    "Music Theory/Harmony/Chord Progressions.md",
+    "Music Theory/Composition Notions/Energy and Rhythms.md",
     "Music Theory/Physics of Music/Duration.md",
     "Music Theory/Physics of Music/Pitch.md",
     "Music Theory/Physics of Music/Timbre.md",
     "Music Theory/Physics of Music/Volume.md",
-    "Music Theory/Composition Notions/Tension and release.md",
+    "Music Theory/Music Theory.md",
+    "Sound Synthesis/Sound Synthesis.md",
+    "Music Theory/Composition Notions/Call and response.md",
+    "Music Production/Untitled",
+    "Music Production/Logic Pro",
+    "Music Production",
+    "Guitar Applied Theory/Fun Chord Progressions.md",
+    "Guitar Applied Theory/Modal Mixture.md",
+    "Music Theory/Musical Language/Tempo.md",
+    "Music Theory/Musical Language/Intervals.md",
     "Music Theory/Composition Notions/Sound dynamics and Articulation.md",
     "Music Theory/Composition Notions/Foreground and background.md",
-    "Music Theory/Composition Notions/Familiar vs unexpected.md",
-    "Music Theory/Composition Notions/Energy and Rhythms.md",
-    "Music Theory/Composition Notions/Call and response.md",
-    "thirds.md",
+    "Music Theory/Musical Language/Notes.md",
+    "Music Theory/Musical Language/Scales.md",
+    "Music Theory/Musical Language/Equal Temperament.md",
     "Music Theory/Musical Language/Meter.md",
+    "Reading List.md",
+    "Random.md",
+    "Guitar Applied Theory/Untitled",
+    "Guitar Applied Theory/Fun Progressions",
+    "Music Theory/Composition Notions/Tension and release.md",
+    "Music Theory/Composition Notions/Familiar vs unexpected.md",
     "Guitar Applied Theory",
-    "Sound Synthesis/Sound Synthesis.md",
-    "Music Theory/Composition Notions.md",
     "Sound Synthesis",
     "Music Theory/Physics of Music",
     "Music Theory/Musical Language",
-    "Music Theory/Harmony",
-    "Music Theory/Composition Notions",
-    "Music Theory.md",
-    "Music Theory/Chord Progressions.md",
-    "Music Theory"
+    "Music Theory/Harmony"
   ]
 }

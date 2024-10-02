@@ -1,4 +1,6 @@
 When multiple different pitches (3 or more) are sounding together or in a quick succession, we recognize them as chords. A sound of a chord is mainly affected by what intervals are there between the notes of the chord. In a Western music theory, chords are generally built by stacking various [thirds](Intervals.md) (major, minor, diminished or augmented) on top of a root note—which is usually the lowest note in a chord.
+
+
 ## Triads
 
 - Major

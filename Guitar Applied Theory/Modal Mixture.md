@@ -1,0 +1,1 @@
+Dorian (b3 and b7) sounds super bluesy and cool when played over a chord progression in major scale (if it only has I, IV, or V).
