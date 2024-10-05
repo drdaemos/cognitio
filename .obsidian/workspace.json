@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Songwriting/How-To Songwriting.md",
+                "file": "Songwriting/Rhyme book.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songwriting/How-To Songwriting.md",
+                "file": "Songwriting/Rhyme book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songwriting/How-To Songwriting.md",
+                "file": "Songwriting/Rhyme book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songwriting/How-To Songwriting.md"
+                "file": "Songwriting/Rhyme book.md"
               }
             }
           }
@@ -197,41 +197,41 @@
   },
   "active": "bd792422295415b1",
   "lastOpenFiles": [
+    "Sound Synthesis/Pad.md",
+    "Songwriting/Rhyme book.md",
+    "Songwriting/Untitled",
+    "Sound Synthesis/Lead.md",
+    "Sound Synthesis/Bass.md",
+    "Sound Synthesis/Sound Synthesis.md",
+    "Songwriting/How-To Songwriting.md",
+    "Software Engineering/Communication in Event-Driven Applications.md",
+    "Music Theory/Physics of Music/Pitch.md",
+    "Music Theory/Physics of Music/Duration.md",
+    "Music Theory/Physics of Music/Timbre.md",
+    "Music Theory/Physics of Music/Volume.md",
+    "Music Theory/Musical Language/Chords.md",
+    "Music Theory/Musical Language/Equal Temperament.md",
+    "Music Theory/Musical Language/Intervals.md",
+    "Music Theory/Musical Language/Meter.md",
+    "Music Theory/Musical Language/Notes.md",
+    "Music Theory/Musical Language/Tempo.md",
+    "Music Theory/Musical Language/Scales.md",
+    "Music Production/Creating Percussion Parts.md",
+    "Music Production/Logic Pro/Flam notes in Step Sequencer.md",
     "Music Theory/Music Theory.md",
     "Music Theory/Composition Notions/Energy and Rhythms.md",
     "Music Theory/Composition Notions/Familiar vs unexpected.md",
     "Music Theory/Composition Notions/Sound dynamics and Articulation.md",
     "Music Theory/Composition Notions/Tension and release.md",
     "Music Theory/Composition Notions/Foreground and background.md",
-    "Music Theory/Composition Notions/Call and response.md",
-    "Songwriting/How-To Songwriting.md",
-    "Music Theory/Musical Language/Notes.md",
-    "Guitar Applied Theory/Modal Mixture.md",
-    "README.md",
     "Songwriting",
     "Software Engineering",
-    "Software Engineering/Communication in Event-Driven Applications.md",
-    "Music Production/Creating Percussion Parts.md",
-    "Music Production/Logic Pro/Flam notes in Step Sequencer.md",
-    "Music Theory/Musical Language/Chords.md",
-    "Music Theory/Harmony/Chord Progressions.md",
-    "Music Theory/Physics of Music/Duration.md",
-    "Music Theory/Physics of Music/Pitch.md",
-    "Music Theory/Physics of Music/Timbre.md",
-    "Music Theory/Physics of Music/Volume.md",
-    "Sound Synthesis/Sound Synthesis.md",
     "Music Production/Untitled",
     "Music Production/Logic Pro",
     "Music Production",
-    "Guitar Applied Theory/Fun Chord Progressions.md",
-    "Music Theory/Musical Language/Tempo.md",
-    "Music Theory/Musical Language/Intervals.md",
-    "Music Theory/Musical Language/Scales.md",
-    "Music Theory/Musical Language/Equal Temperament.md",
     "Guitar Applied Theory/Untitled",
     "Guitar Applied Theory/Fun Progressions",
     "Guitar Applied Theory",
-    "Sound Synthesis",
-    "Music Theory/Physics of Music"
+    "Sound Synthesis"
   ]
 }
