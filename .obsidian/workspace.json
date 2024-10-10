@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1e868a1d70ead9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "240d21a948809f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guitar Applied Theory/Fun Chord Progressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd792422295415b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songwriting/Rhyme book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f72362d8dfebf4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Theory/Music Theory.md",
+                "file": "Team Dynamics/Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Songwriting/Rhyme book.md",
+                "file": "Team Dynamics/Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Songwriting/Rhyme book.md",
+                "file": "Team Dynamics/Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Songwriting/Rhyme book.md"
+                "file": "Team Dynamics/Management.md"
               }
             }
           }
@@ -195,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd792422295415b1",
+  "active": "90e795b297ae13dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Team Dynamics/Management.md",
     "Sound Synthesis/Pad.md",
-    "Songwriting/Rhyme book.md",
-    "Songwriting/Untitled",
     "Sound Synthesis/Lead.md",
     "Sound Synthesis/Bass.md",
-    "Sound Synthesis/Sound Synthesis.md",
+    "Songwriting/Rhyme book.md",
     "Songwriting/How-To Songwriting.md",
+    "Songwriting",
     "Software Engineering/Communication in Event-Driven Applications.md",
-    "Music Theory/Physics of Music/Pitch.md",
-    "Music Theory/Physics of Music/Duration.md",
-    "Music Theory/Physics of Music/Timbre.md",
-    "Music Theory/Physics of Music/Volume.md",
+    "Software Engineering",
+    "Reading List.md",
+    "Random.md",
+    "Music Production/Logic Pro/Flam notes in Step Sequencer.md",
+    "Music Production/Logic Pro",
+    "Music Production/Creating Percussion Parts.md",
+    "Music Production",
+    "Guitar Applied Theory/Modal Mixture.md",
+    "Sound Synthesis/Sound Synthesis.md",
+    "README.md",
+    "Team Dynamics",
+    "Music Theory/Music Theory.md",
+    "Guitar Applied Theory/Reading List.md",
+    "Guitar Applied Theory/Fun Chord Progressions.md",
+    "Guitar Applied Theory/Untitled",
+    "Music Theory/Harmony/Chord Progressions.md",
+    "Guitar Applied Theory/Fun Progressions",
+    "Music Theory/Musical Language/Intervals.md",
+    "Music Theory/Musical Language/Notes.md",
+    "Music Theory/Musical Language/Scales.md",
+    "Music Theory/Musical Language/Tempo.md",
     "Music Theory/Musical Language/Chords.md",
     "Music Theory/Musical Language/Equal Temperament.md",
-    "Music Theory/Musical Language/Intervals.md",
-    "Music Theory/Musical Language/Meter.md",
-    "Music Theory/Musical Language/Notes.md",
-    "Music Theory/Musical Language/Tempo.md",
-    "Music Theory/Musical Language/Scales.md",
-    "Music Production/Creating Percussion Parts.md",
-    "Music Production/Logic Pro/Flam notes in Step Sequencer.md",
-    "Music Theory/Music Theory.md",
-    "Music Theory/Composition Notions/Energy and Rhythms.md",
-    "Music Theory/Composition Notions/Familiar vs unexpected.md",
-    "Music Theory/Composition Notions/Sound dynamics and Articulation.md",
-    "Music Theory/Composition Notions/Tension and release.md",
-    "Music Theory/Composition Notions/Foreground and background.md",
-    "Songwriting",
-    "Software Engineering",
-    "Music Production/Untitled",
-    "Music Production/Logic Pro",
-    "Music Production",
-    "Guitar Applied Theory/Untitled",
-    "Guitar Applied Theory/Fun Progressions",
+    "Music Theory/Physics of Music/Duration.md",
     "Guitar Applied Theory",
-    "Sound Synthesis"
+    "Sound Synthesis",
+    "Music Theory/Physics of Music"
   ]
 }
