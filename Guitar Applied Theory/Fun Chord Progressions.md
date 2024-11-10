@@ -18,3 +18,6 @@ This one starts out dark, but strives to reach the light and shifts from a minor
 | **Verse** | F#m | B7  | G#m | C#m7 |
 |           | 1   | 2   | 4   | 5    |
 |    Bridge | E   | F#m | A   | B    |
+#### The Strokes
+
+II - V - I - IV

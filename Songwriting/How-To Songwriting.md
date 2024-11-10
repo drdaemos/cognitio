@@ -33,3 +33,8 @@ Topics:
 		- adjective (description): `my`, `his`, `charming`, `lovely`, `these`, `all`
 		- object (who / what is targeted by the action): `eyes`, `house`, `song`, anything really
 - Understanding melody 
+
+## TBD
+
+- Object writing
+- Free writing

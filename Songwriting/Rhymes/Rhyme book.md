@@ -1,4 +1,5 @@
-[i]
+## /i/
+
 dreams
 leaves
 bittersweet
@@ -14,7 +15,8 @@ please
 (set me) free
 deal
 
-[aɪ]
+## /aɪ/
+
 cry
 alright
 my
@@ -26,4 +28,17 @@ inside
 line
 apologize
 
+## /aʊ/
 
+around
+ground
+sound
+
+## /ü/ /oo/ /üә/
+
+good
+should
+room
+true
+through
+cure
