@@ -1,3 +1,12 @@
+
+## Minor
+
+
+Chorus in Let It Happen
+i - VI - VII - III
+vi - IV - V - I
+
+
 #### Wishful
 
 This one starts out dark, but strives to reach the light and shifts from a minor scale to a relative major closer to the end.
@@ -21,3 +30,6 @@ This one starts out dark, but strives to reach the light and shifts from a minor
 #### The Strokes
 
 II - V - I - IV
+
+## Aruarian Dance / The Lamp is Low
+
